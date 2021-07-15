@@ -1,0 +1,233 @@
+=== Okim Industries Ship Shop 2 === 
+
+[[File:OKI-02.png|85px|frameless|left]]
+[[Okim Industries|Okim Industries]]  Shop TWO contains bigger freighters, station parts movers and a range of combat ships from snub fighters to a venerable old Republic gunship.
+<br>Type: ''large player ship shop''
+<br>Maintained by: ''Cain''
+<br clear=all>
+{| class="wikitable mw-collapsible mw-collapsed" style= "text-align: center;"
+|+ class="nowrap" | ''List of OKI2 ships''
+|-
+! #
+! style= "width: 300px;" | Image
+! style= "width: 120px;" | Ship Name
+! style= "width: 100px;" | Creator
+! style= "width: 50px;" | Cost
+! style= "text-align: center;" | Description
+|-
+| 1
+|
+[[File:Oki pending.jpg|300px|thumb]]
+| T35-B Initium<br><br>''Starter ship/hauler ''
+| Tyridan
+| ?
+| The T35-B "Initium" basic model is a beginner ship which offers a freely modifiable loading area and various free hardpoints and Yolol slots for upgrading.
+Without cargo, the T35-B can reach a speed of 125 / ms.<br>
+<br>
+*Attention:* The basic model does not have any comfort features such as auto power, ISAN and advanced flight controls. Everything has to be controlled manually.
+|-
+| 2/3
+|
+[[File:Oki2 modulus.jpg|300px|thumb]]
+| Modulus DIY<br><br>''Do-It-Yourself Ship ''
+| Okim
+| 1,8mil
+| A basic starter ship designed with a large amount of upgrade options in mind. In basic configuration ship serves as a Bolt-To freighter and has no nav systems or yolol at all.<br><br>9 hardpoints for devices, tools, weapons and radiators, cargo capacity: 5 ore crates and up to 20 ore cubes bolted to hull, power generation: 1k eps and slots for 3 more chambers and 8 more generator units.
+|-
+| 4/5
+|
+[[File:Oki2 modulus-fr.jpg|300px|thumb]]
+| Modulus FR<br><br>''Small Freighter (Containers) ''
+| Okim
+| 3,9mil
+| An example modification of Modulus chassis designed as a small and fast cargo ship equipped with ISAN.<br><br>Power generation: 2k eps, cargo capacity: 25 ore crates, navigation: ISAN Mono.
+|-
+| 6
+|
+[[File:Oki mammoth.jpg|300px|thumb]]
+| Mammoth<br><br>''Large Freighter / miner ''
+| Okim
+| 34mil
+| Large crates freigher with a small cargo lock frame for either small ships or additional ore stacks. Has ISAN and OMNISEER nav systems. Can act as a miner thanks to installed collectors and mining laser.<br><br>Omniseer signal tracker, ISAN Mono. 70m/s max speed. 288 ore crates with a lock frame for 81 stacks of ore. EcoMode/MinEPS mode.
+|-
+| 7
+|
+[[File:Oki3 axiom.jpg|300px|thumb]]
+| Axiom<br><br>''Miner''
+| Survivor
+| 27mil
+| Powerful miner with sophisticated mining tools that consist of two retractable robot arms each having a mining laser on the tip. Advanced mining script controls these arms to carefully, but efficiently harvest the asteroid in front of the ship. Generator is able to output 160000 eps. Has ISAN Quad and reaches 90 m/s when all of 128 crates are empty.
+|-
+| 8
+|
+[[File:Oki molerat.jpg|300px|thumb]]
+| Molerat<br><br>''Small Miner ''
+| Okim
+| 10mil
+| A robust mining ship with pilot controlled mining laser turret. Very simple to use and fast to fly.<br><br>32 containers, 1 mining laser, 2 collectors. ISAN Mono, 75m/s max speed. EcoMode.
+|-
+| 9
+|
+[[File:Oki consultor.jpg|300px|thumb]]
+| Consultor LMOT401<br><br>''Small Miner ''
+| Nate
+| 4,7mil
+| Cheap miner with 12 crates cargo capacity, 1 laser and 1 collector. Nice starter ship for those willing to waste no time mining rocks with a pick axe!<br><br>Currently has inadequate power generation. Pending update!
+|-
+| 10
+|
+[[File:Oki2 modulus-mn.jpg|300px|thumb]]
+| Modulus MN<br><br>''Small Miner ''
+| Okim
+| 5,6mil
+| An example modification of Modulus chassis designed as a miner with 1 mining laser, 2 collectors and enough power to operate one of the tool types at a time.<br><br>Power generation: 6k eps, cargo capacity: 20 ore crates, tools: 1 mining laser and 2 collectors, navigation: ISAN Mono.
+|-
+| 11
+|
+[[File:Oki kreft.jpg|300px|thumb]]
+| Kreeft II LSET303<br><br>''Explorer ''
+| Nate
+| 4mil
+| Fancy looking medium range combat scout. Pod Racer fans will love this one!<BR><BR>1 autocannon, ISAN Mono, EcoMode.
+|-
+| 12/13
+|
+[[File:Oki manta.jpg|300px|thumb]]
+| Manta<br><br>''Explorer ''
+| Okim
+| 4,8mil
+| Medium range fast ship. Not suitable for hazardous areas (corrosive / radiation damage). Has great maneuverability and strafe.<br><br>Max speed: 120 m/s. ISAN Mono/station signals, EcoMode.
+|-
+| 14
+|
+[[File:Oki moonfish.jpg|300px|thumb]]
+| Moonfish Quadro<br><br>''Moonship ''
+| Okim
+| 27,8mil
+| Long range ship designed to reach moons up to 36 000 km away from Origin. Moonfish has made two successful trips to Elysium and one 36 000 trip towards another moon that was beyond this range.<BR><BR>24 large tanks, 36 box thrusters, EcoMode.
+|-
+| 15
+|
+[[File:Oki pending.jpg|300px|thumb]]
+| CMC E1-A Xiphos<br><br>''Intra-station transport craft/Light SZ belt explorer ''
+| Cain
+| ?
+| Top speed: 120 mps (straight line)<br>
+Flight time: 2 hours (approx)<br>
+Power plant: 1x 3gen+2rod<br>
+Armament: none<br>
+Armor: Tengium (to save weight)<br>
+Navigation: Isan mono<br>
+|-
+| 16
+|
+[[File:Oki moti.jpg|300px|thumb]]
+| Moti<br><br>''Personal Ship ''
+| Okim
+| 1,9mil
+| Top speed bike that can be used by a pilot and passenger to quickly tranfer between distant stations or perform short range scouting missions.<br><br>150 m/s, ISAN Mono/station signals.
+|-
+| 17
+|
+[[File:Oki mercury.jpg|300px|thumb]]
+| Mercury<br><br>''Explorer ''
+| Okim
+| 6mil
+| Medium range armed exploration ship. Designed for operating in hazardous areas and in contested territories.<br><br>2 laser cannons, 145 m/s speed, ISAN Mono/station signals, EcoMode.
+|-
+| 18
+|
+[[File:Oki3 magnus2mn.jpg|300px|thumb]]
+| Magnus IIMN<br><br>''Heavy Miner''
+| Okim
+| 42mil
+| MN variant of Magnus II chassis is reconfigured into a heavy miner with 2 mining laser / collectors turrets, automatic mining sweep script and considerably improved power capacity. This convertios comes at a cost of 32 crates the original model has down to 400 ore containers as well as overall price increase. The ship is able to accelerate up to 81 m/s when empty, but the speed significantly drops down with more load. Has ISAN Mono navigation system, a transponder and eco mode.
+|-
+| 19
+|
+[[File:Oki eureptirid.jpg|300px|thumb]]
+| Eureptirid V 1.2<br><br>''Large Miner ''
+| Fixer
+| 31mil
+| The Eurypterid is a heavy miner with 144 ore crates, 4 turret mounted mining lasers, and 3 collectors. Great for quickly gathering material.<br><br>96 m/s max speed. ISAN Quad.
+|-
+| 20
+|
+[[File:Oki vulkanus2.jpg|300px|thumb]]
+| T3-A Vulkanus<br><br>''Medium Miner ''
+| Tyridan
+| 17mil
+| The T3-A Vulcanus is a mid-range mining ship with 48 ore containers.<br><br>Has 2 mining lasers and 2 collectors. 95m/s, ISAN Quad.
+|-
+| 21
+|
+[[File:Oki2 brokkr.jpg|300px|thumb]]
+| Brokkr<br><br>''Medium Freighter (Containers)''
+| Fixer
+| 5mil
+| Simple freighter with good capacity. Lack of navigation systems limits it to operating in well known space or within station visibility.<br><br>Power generation: 1k eps, cargo capacity: 24 ore crates, 4 resource bridges.
+|-
+| 22
+|
+[[File:Oki3 barrow72.jpg|300px|thumb]]
+| Barrow72<br><br>'Miner'
+| Mrroboto
+| 21mil
+| Barrow72 equipped with 72 ore crates and a turret with mining equipment. Ship runs on 9 generators boosted by enchancers. In addition to the pilot seat, this vessel can also be controlled via the turret. Has ISAN Quad.
+|-
+| 23
+|
+[[File:Oki marmottnk.jpg|300px|thumb]]
+| Marmot-TNK<br><br>''Supply ship ''
+| Okim
+| 4,7mil
+| Supply ship able to carry all the available consumables - rods, cells and tanks of all sizes. Comes with just empty slots for given consumables.<br><br>12 slots for fuel rods, 16 slots for large tanks, 12 slots for coolant cells. ISAN Mono. EcoMode.
+|-
+| 24
+|
+[[File:Oki marmotps.jpg|300px|thumb]]
+| Marmot-PS<br><br>''Passenger Ship ''
+| Okim
+| 4mil
+| This smaller member of Marmot family is designed as a robust passenger ship able to achieve relatively high speeds and travel long distances.<BR><BR>13 passenger seats, 2 containers. 120 m/s speed, ISAN Mono. EcoMode.
+|-
+| 25
+|
+[[File:Oki_marmot24.jpg|300px|thumb]]
+| Marmot-24<br><br>''Starter Freighter (24 containers) ''
+| Okim
+| ?
+| A series of freighters based on the same chassis and designed to fulfill different roles. This is the fastest and cheapest ship in the family that can go further than others as well. Good for going deep into the field for mining rare ores. Max speed is 89 m/s.<BR>
+<BR>
+Entire line of Marmot ships have recently been redesigned with chassis being updated to use ducts, to have hollow structure with maintenance hatches, to contain easy-to-snap-to slots for generators and thrusters, to have better control pannels and to enjoy hardpoint reinforcements for mounting heavy tools.
+|-
+| 26
+|
+[[File:Oki_marmot48.jpg|300px|thumb]]
+| Marmot-48<br><br>''Starter Freighter (48 containers) ''
+| Okim
+| ?
+| A series of freighters based on the same chassis and designed to fulfill different roles. This is a 'golden middle' in the family due to balanced speed and capacity and relatively nice price. Max speed is 70 m/s.<BR>
+<BR>
+Entire line of Marmot ships have recently been redesigned with chassis being updated to use ducts, to have hollow structure with maintenance hatches, to contain easy-to-snap-to slots for generators and thrusters, to have better control pannels and to enjoy hardpoint reinforcements for mounting heavy tools.
+|-
+| 27
+|
+[[File:Oki_marmot72.jpg|300px|thumb]]
+| Marmot-72<br><br>''Starter Freighter (72 containers) ''
+| Okim
+| ?
+| A series of freighters based on the same chassis and designed to fulfill different roles. This is the heaviest and slowest in Marmot family. Good for bulk freights or group mining in safe space. Max speed is 56 m/s.<BR>
+<BR>
+Entire line of Marmot ships have recently been redesigned with chassis being updated to use ducts, to have hollow structure with maintenance hatches, to contain easy-to-snap-to slots for generators and thrusters, to have better control pannels and to enjoy hardpoint reinforcements for mounting heavy tools.
+|-
+| 28
+|
+[[File:Oki marmotmn.jpg|300px|thumb]]
+| Marmot-MN<br><br>''Medium Miner ''
+| Okim
+| 13mil
+| A heavy modification of Marmot-72 to meet the increased demand for a medium capacity, medium efficiency affordable miner. It's two mining lasers are fixed to converge at 20m from the ship which means mining is achieved by ship's strafing and turning only.<br><br>72 containers, 2 mining lasers, 1 collector. 60m/s. ISAN Mono. EcoMode.
+|-
+|}
+<hr>

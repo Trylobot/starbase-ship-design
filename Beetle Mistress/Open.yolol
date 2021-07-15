@@ -1,0 +1,2 @@
+if :Open==1 then :Open_2=1 :Open_1=:DoorCurrentState_2 goto1 end
+if :Open==0 then :Open_1=0 :Open_2=:DoorCurrentState_1 goto2 end goto1

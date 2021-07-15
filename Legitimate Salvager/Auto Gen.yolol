@@ -1,0 +1,7 @@
+:Generator = 0                    :PowCol = 0  goto (2+:Power)
+:Generator = (10000-:Battery)/100 :PowCol = 3  goto (2+:Power)
+:Generator = 100                  :PowCol = 2  goto (2+:Power)
+
+// :Power -1 --> zero power     // line 1 (black)
+// :Power  0 --> auto/eco power // line 2 (green)
+// :Power  1 --> full power     // line 3 (orange)

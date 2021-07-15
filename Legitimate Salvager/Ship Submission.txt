@@ -1,0 +1,31 @@
+Submission type
+(x) New ship
+
+Save timestamp
+Wed Jun 16 2021 20:00 GMT-0500 (Central Daylight Time)
+
+Ship name
+Legitimate Salvager
+
+Designer
+Trylobot
+
+Picture of the ship - link url
+https://cdn.discordapp.com/attachments/730724216705646672/854867500915490816/legitimate-salvager-01.png
+
+Blueprint name
+Legitimate Salvager
+
+A short description of the ship
+ISAN Mono; 4x modular ore crates. Highly manueverable, and heavily reinforced chassis and energy core. Self-defensive weaponry discretely concealed, so as not to cause undue distress to nearby civilians.
+
+Additional information
+OKI Shop 3, slot 26
+
+Is it okay to use your ship?
+(x) Yes
+
+Contact person's Discord tag
+Trylobot#0001
+
+[ Send ]

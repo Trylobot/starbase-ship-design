@@ -1,0 +1,2 @@
+if :Power==1 then :CoolerUnitRateLimit=100 end
+if :Power!=1 then :CoolerUnitRateLimit=0 end goto1

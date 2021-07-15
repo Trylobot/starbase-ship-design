@@ -1,0 +1,227 @@
+=== Okim Industries Ship Shop 1 === 
+
+[[File:OKI-02.png|85px|frameless|left]]
+[[Okim Industries|Okim Industries]]  Shop One is focused on providing customers with a range of low cost personal vessels, exploration ships, freighters and mining ships.
+<br>Type: ''large player ship shop''
+<br>Maintained by: ''Cain''
+<br clear=all>
+{| class="wikitable mw-collapsible mw-collapsed" style= "text-align: center;"
+|+ class="nowrap" | ''List of OKI1 ships''
+|-
+! #
+! style= "width: 300px;" | Image
+! style= "width: 120px;" | Ship Name
+! style= "width: 100px;" | Creator
+! style= "width: 50px;" | Cost
+! style= "text-align: center;" | Description
+|-
+| 1
+|
+[[File:Oki pending.jpg|300px|thumb]]
+| Momento<br><br>''Small Freighter (containers) ''
+| Okim
+| 5mil
+| Simple and cheap freighter designed for speedy deliveries of ores. Suitable for mining. Has ISAN Mono coordinates system.<br><br>34 containers, 140-150 m/s, ISAN Mono, EcoMode.
+|-
+| 2
+|
+[[File:Oki mara.jpg|300px|thumb]]
+| Mara<br><br>''Small Freighter (bolt-to) ''
+| Okim
+| 1,4mil
+| Cheap freighter created to carry ore stacks on the frame by bolting them to the ship directly. Has no navigation!<BR><BR>2 containers for loading, 24 slots for bolting ore stacks, 140m/s speed, ISAN Mono, EcoMode.
+|-
+| 3
+|
+[[File:Oki2 moneymaker.jpg|300px|thumb]]
+| Moneymaker<br><br>''Small Freighter (Containers) ''
+| Okim
+| 1,8mil
+| Cheap freighter that is designed for starters and has minimal decorations, plating and non-essential systems installed.<br><br>Power generation: 1k eps, cargo capacity: 10 containers, top speed: 85m/s, navigation: ISAN Mono.
+|-
+| 4
+|
+[[File:Oki mite.jpg|300px|thumb]]
+| Mite<br><br>''Small Freighter (containers) ''
+| Okim
+| 0,6mil
+| Tiny battery operated freighter. Good for starters.<BR><BR>10 batteries. 4 containers. <br><br>Pending update!
+|-
+| 5
+|
+[[File:Oki2 moneyman.jpg|300px|thumb]]
+| Moneyman<br><br>''Small Freighter (CLF) ''
+| Okim
+| 1,5mil
+| Cheap Carlo Lock Frame for transpoirting 10 ore stacks or parts. Good for carrying spare missiles and torpedoes.<br><br>Power generation: 1k eps, cargo Lock Frame 2x5x1 ore stacks, top speed: 95m/s, navigation: ISAN Mono.
+|-
+| 6
+|
+[[File:Oki2 manatee.jpg|300px|thumb]]
+| Manatee<br><br>''Large Freighter (Containers) ''
+| Okim
+| 18mil
+| Simple large miner with unusual shape and thruster placement. Can be upgraded with mining tools for which it already has enough power generation. Uses ISAN Mono.<br><br>Power generation: 8k eps, cargo capacity: 120 ore crates, 3 hardpoints, top speed: 75m/s, navigation: ISAN Mono.
+|-
+| 7
+|
+[[File:Oki2 tricone.jpg|300px|thumb]]
+| Tricone<br><br>''Large Freighter (Containers) ''
+| Einar
+| 20mil
+| Large cargo freighter mostly for station to station freigh, got decent forward and turning speed and a long flight time.Equipped with Isan Mono and has a spacius interiur with all components easily accesible.<br><br>Power generation: 4k eps, cargo capacity: 112 cargo crates, tools: 16 resource bridges, top speed: 89m/s, navigation: ISAN Mono.
+|-
+|8
+|
+[[File:Oki2 merchantman.jpg|300px|thumb]]
+| Merchantman<br><br>''Large Freighter (Containers) ''
+| Okim
+| 18mil
+| Fast large freighter designed with focus on speed over capacity. Has Omniseer signal tracker and ISAN Mono. Can be upgraded with mining tools or armed with up to 4 turrets.<br><br>Power generation: 8k eps, propulsion:  28 box, cargo capacity: 60 ore crates, tools: 4 resource bridges and 8 hardpoints, top speed: 121m/s, navigation: ISAN Mono and Omniseer.
+|-
+| 9/10
+|
+[[File:Oki2 malamuteII.jpg|300px|thumb]]
+| Malamute II<br><br>''Freighter (Containers) ''
+| Okim
+| 20mil
+| A variant of Malamute shuttle that is dedicated to hauling ores. Can be upgraded to a miner thanks to advanced generator and multiple hardpoints.<br><br>Power generation:  8k eps, cargo capacity: 86 ore crates, 3 empty hardpoints, top speed: 95m/s, navigation: ISAN Mono.
+|-
+| 11
+|
+[[File:Oki pending.jpg|300px|thumb]]
+| Piece of Cheese<br><br>''Personal Ship ''
+| Mr. Roboto
+| 1,8mil
+| Single person speeder. This Piece of Cheese gets you from A to B quickly.<br><br>ISAN is on board too. 
+|-
+| 12
+|
+[[File:Oki corundum.jpg|300px|thumb]]
+| Corundum<br><br>''Personal Ship ''
+| splet
+| 1,5mil
+| Thin, sleek bike powered by a generator and twin Box Thrusters. Well-suited for medium-distance expeditions and personal transport with style.<br><br>120m/s max speed.
+|-
+| 13
+|
+[[File:Oki3 rutile.jpg|300px|thumb]]
+| Rutile<br><br>''Personal Ship''
+| splet
+| 2mil
+| Light and swift personal vessel made by splet. Ship features extremely powerful forward and backward thrust which equals one another.
+|-
+| 14
+|
+[[File:Oki merino.jpg|300px|thumb]]
+| Merino<br><br>''Passenger Ship ''
+| Okim
+| 8mil
+| A general purpose passenger ship with large windows, comfort seats and cozy interriors. Designed for long range inter-station travels.<br><br>20 passenger seats, 4 small cargo lock frames. 76m/s, ISAN Mono/station signals.
+|-
+| 15
+|
+[[File:Oki micro.jpg|300px|thumb]]
+| Micro<br><br>''Personal Ship ''
+| Okim
+| 1.1mil
+| Minimalistic bike running on a generator and using ISAN Mono. Good for station and interstation travels.<br><br>110m/s, ISAN Mono/station signals, EcoMode.
+|-
+| 16
+|
+[[File:Oki cavaliere.jpg|300px|thumb]]
+| Cavaliere<br><br>''Personal Ship ''
+| Trylobot
+| 1,3mil
+| A small single-seat speeder, you will feel like you are on the cutting edge of luxury with flashy, well-lit maintenance hatches. Some tastefully minimal paint for that bit of OKI flare, but no extra plating, to trim the fat.
+|-
+| 17
+|
+[[File:Oki3 shifter.jpg|300px|thumb]]
+| Shifter LSET304<br><br>''Personal Ship''
+| Nate
+| 1mil
+| The Shifter is a small, disposable, battery powered exploration craft perfect for station hopping. It contains 15 batteries and one small propellant tank, as well as two Resource Bridges with flow direction buttons.
+|-
+| 18
+|
+[[File:Oki3 magnus2.jpg|300px|thumb]]
+| Magnus II<br><br>''Heavy Freighter''
+| Okim
+| 37mil
+| A heavy ore hauler, clad in aegisium plating and equipped with 432 crates. The ship is able to accelerate up to 81 m/s when empty, but the speed significantly drops down with more load. Has ISAN Mono navigation system, a transponder and eco mode.
+|-
+| 19
+|
+[[File:Oki2 mastodon.jpg|300px|thumb]]
+| Mastodon<br><br>''Megafreighter (CLF) ''
+| Okim
+| 29mil
+| Massive cargo lock frame transport designed to carry ships the size of OKI Manatte. Consumes a lot of electricity to run the frame of such a size. Can be used to haul enourmous amounts of station parts.<br><br>Power generation: 24k eps, propulsion:  64 box, Cargo Lock Frame (50x23x12m) , top speed:  100m/s (empty), navigation: ISAN Quad.
+|-
+| 20
+|
+[[File:Oki2 mover.jpg|300px|thumb]]
+| Mover<br><br>''Freighter (Flatbed) ''
+| Okim
+| 7,5mil
+| A simple platform ship to carry large station parts by simply bolting them to it. The light frame and solid thrust power makes it a top speed vessel when empty.<br><br>Cargo capacity:  2x flat surface areas (22x16 meters each), top speed: 150m/s (empty) , navigation: ISAN Mono.
+|-
+| 21/22
+|
+[[File:Oki2 malamute.jpg|300px|thumb]]
+| Malamute<br><br>''Cargo Shuttle (any type)''
+| Okim
+| 13mil
+| This medium shuttle has it's cargo hold designed to be reconfigured in any type of a cargo ship a user may want it to become - a containers freighter, a cargo lock frame hauler, a tanker, a passenger ship or a mix of everything.<br><br>Power generation:  4k eps,  2 hardpoints, top speed: 114m/s, navigation: ISAN Mono, cargo capacity:  8 ore crates, can carry up to 36 ore cubes botled inside hold, can place up to 36 containers in hold or a cargo lock frame.
+|-
+| 23
+|
+[[File:Oki2 midge.jpg|300px|thumb]]
+| Moon Midge<br><br>''Moon Lifter (Containers) ''
+| Okim
+| 6mil
+| Small cargo lifter designed to move low amounts of ores between moon orbital stations and moon cities. Has automated balance, hover and descend scripts to help navigating in gravity.<br><br>Power generation: 2k eps, cargo capacity: 20 ore crates, yolol: Auto Hover and Auto Balance modes, top speed: 75m/s, navigation: ISAN Mono.
+|-
+| 24
+|
+[[File:Oki pending.jpg|300px|thumb]]
+| Moon Moth<br><br>''Moon Lifter (Passengers) ''
+| Okim
+| ?
+| A 14-seat light moon passenger lander with hover and balancing scripts inherited from its cargo hauler cousin, the Moon Midge.
+|-
+| 25
+|
+[[File:OKI3Hopbox.jpg|300px|thumb]]
+| Hopbox LCOT202<br><br>''CLF Shuttle''
+| Nate
+| 6mil
+| A small and luxurious dual CLF hauler which comes with two 192x336x336 bastium plated containers. Includes ISAN Mono 1.1 navigation system and HUDos v1.1 for a detailed display of the ship's systems. A single Laser cannon can help to defend against pirates.
+|-
+| 26
+|
+[[File:Oki3 antares.jpg|300px|thumb]]
+| Antares<br><br>''CLF Freighter''
+| Einar4050
+| 20mil
+| A cargo vessel with two large Cargo Lock Frames designed to freight station parts and salvage or anything that can fit into the frames. Has long range with a bit over six hours of flight time and easily reaches 150 m/s empty. Has ISAN Quad navigation system and a transponder.
+|-
+| 27
+|
+[[File:Oki3 usret.jpg|300px|thumb]]
+| TA13-O "Usret"<br><br>''CLF Freighter''
+| Tyridan
+| 11mil
+| "Usret" is intended as a medium station beam freighter, but it is capable of carrying other types of cargo as well with a maximum speed of 140 m/s. Has ISAN Mono navigation system and an Eco Mode as standard. There are also two more turret slots for upgrades.
+|-
+| 28
+|
+[[File:Oki2 mule.jpg|300px|thumb]]
+| Mule III<br><br>''Medium Freighter (CLF) ''
+| Okim
+| 10mil
+| A durable cargo lock frame ship fully clad in Aegisium plating and powered by 8 box thrusters. Has upgrade options for tools and devices, but would require installation of addional generators to supply power to those. Has ISAN.<br><br>Power generation: 4k eps, cargo capacity: 4 ore crates and up to 81 ore cubes in CLF, 5 hardpoints, top speed:  75 m/s, navigation: ISAN Mono.
+|-
+|}
+<hr>

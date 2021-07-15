@@ -1,0 +1,2 @@
+s1="--------\nWarpClass:\n" s2="\n\nBroken:\n"
+:Scanner=s1+:WarpClass+s2+:DurabilityErrors goto2

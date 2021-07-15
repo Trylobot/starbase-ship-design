@@ -1,0 +1,31 @@
+Submission type
+(x) New ship
+
+Save timestamp
+2021/06/27 3:15 PM CST
+
+Ship name
+Vitesse
+
+Designer
+Trylobot
+
+Picture of the ship - link url
+https://cdn.discordapp.com/attachments/730724216705646672/858802209436598272/vitess_1.png
+
+Blueprint name
+Vitesse
+
+A short description of the ship
+The Vitesse is a competitive racing speeder. It has an aggressive pendulum-style swinging design, with exposed front thruster actuation. Maintenance and repairs are made easy with accessible, no-nonsense hatches. Side ramscoops provide extra cooling while inside of nebulae and upper atmospheres. Minimal safety features. Overall mass is kept low, while still conforming to the official ERL (Endokid Racing League) requirements for all racing craft.
+
+Additional information
+OKI Shop 1, slot 16 (replaces Cavaliére)
+
+Is it okay to use your ship?
+(x) Yes
+
+Contact person's Discord tag
+Trylobot#0001
+
+[ Send ]

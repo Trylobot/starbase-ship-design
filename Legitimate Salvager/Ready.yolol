@@ -1,0 +1,12 @@
+if :Ready==0 then goto1 else :Sliders=1 :Charge=100 :Hatches=1 end
+if :Ready==1 then goto2 else :Sliders=0 :Charge=0              end
+// 2 second delay
+
+
+
+
+
+
+
+
+:Hatches=0 goto1

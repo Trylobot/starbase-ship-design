@@ -1,0 +1,13 @@
+
+y=:Yaw r=:Roll             :TLL=-y-r :TRR=y+r :BLL=-y+r :BRR=y-r goto1
+// yaw + roll
+
+
+p=:Pitch r=:Roll           :TLT=p+r :TRT=p-r :BLB=-p-r :BRB=-p+r goto1
+// pitch + roll
+
+
+b=:Backward                          :TLK=b :TRK=b :BLK=b :BRK=b goto1
+// brake
+
+

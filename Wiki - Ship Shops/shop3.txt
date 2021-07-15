@@ -1,0 +1,144 @@
+=== Okim Industries Ship Shop 3 === 
+
+[[File:OKI-02.png|85px|frameless|left]]
+[[Okim Industries|Okim Industries]]  Shop THREE contains a choice of specialised ships such as CLF freighters and miners.
+<br>Type: ''large player ship shop''
+<br>Maintained by: ''Cain''
+<br clear=all>
+{| class="wikitable mw-collapsible mw-collapsed" style= "text-align: center;"
+|+ class="nowrap" | ''List of OKI3 ships''
+|-
+! #
+! style= "width: 300px;" | Image
+! style= "width: 120px;" | Ship Name
+! style= "width: 100px;" | Creator
+! style= "width: 50px;" | Cost
+! style= "text-align: center;" | Description
+|-
+| 1
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| Salamander Mk.2a1<br><br>''Heavy Fighter''
+| Survivor 500
+| ?
+| Salamander Mk.2a1 is a massive overhaul from the last design. Armed with eight Auto-cannons and four Rail-cannons, it's more heavily armed than most other ships of its class. In addition, 12 additional rear-thrusters have been added to increase the ship's top speed. Armor has been modified to more closely meet the current combat meta, thus lightening up the ship's overall mass.
+|-
+| 2
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| Javelin Mk.2<br><br>''Light Fighter''
+| Survivor 500
+| ?
+| The Javelin Mk.2 is a combat ship, armed with four laser cannons, and highly maneuverable; it’s a great mid-price range combat ship. Using only two small fuel tanks and a single fuel rod, to power its four main triangle thrusters, still grants the ship adequate range for escort missions. It’s equipped with ISAN MONO and has a top speed of, roughly, 140-145 m/s, so you can get where you need to be, fast. I hope you consider checking out the Javelin, Thank You for your time.
+|-
+| 4
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| Javelin Mk.2A1<br><br>''Light Fighter''
+| Survivor 500
+| ?
+| Javelin Mk.2A1 is a modification of Javelin Mk.2. Housing an additional two Plasma Cannons, it's equipped with armaments more suitable for heavier targets. In addition, structural integrity has been slightly improved, without much sacrifice in agility/speed.
+|-
+| 6
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| T2-A "Widukind"<br><br>''Mid-Range Scout/Light Fighter''
+| Tyridan
+| ?
+| The T2-A "Wikukind" is a mid-range scout with the ability to fight light enemy units. It is delivered with two fuelrods and two small fuel tanks. In addition, it is equipped with ISAN and an extended control for it´s weapons by default. Two autocannons and two laser cannons were installed to ensure sufficient firepower. The Widukind reaches speeds of 80-100m/s.
+|-
+| 7
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| OKI "Myrmidon II" Troopship<br><br>''Troop Carrier''
+| Okim
+| ?
+| Myrmidon made by Okim is a an armored shuttle designed to deliver up to 14 troopers into a hotzone. Clad in 4 layers of finest Kutonium armor this troop carrier is able to withstand any known endo firearms as well as some punishment from ship weapons. An onboard reconstruction machine provides assaulting troopers with a respawn point to keep pushing the objective. Myrmidon has ISAN Mono and is able to achieve 81 m/s.
+|-
+| 8
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| Wing II Mk.3<br><br>''Light Fighter''
+| Fixer
+| ?
+| A militarized version of the standard Wing.
+|-
+| 11
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| Shale MK02<br><br>''Single-gun snub fighter and paramilitary escort''
+| splet
+| ?
+| An improved, painted version of the Shale Mk01, a light paramilitary craft suitable for scouting, transport, and swift dogfights and surgical strikes. Compared to the Mk01, the Mk02 features slightly improved armoring over its vital components — most notably the MFC — and a very slightly increased degree of redundancy.<BR>
+<BR>
+While it is relatively slow, it is extremely cheap and well-suited for short-range operations.
+|-
+| 12
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| Stibnite Light Fighter<br><br>''Ambush-style Evasive Fighter''
+| splet
+| ?
+| An update to the now relatively-old Stibnite model boasting improved construction, integrity, and armor along with a well-needed repaint and decal-job.
+|-
+| 14
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| Coyote<br><br>''''
+| Fixer
+| ?
+| ?
+|-
+| 15
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| Kyanite M2<br><br>''Snub Fighter''
+| splet
+| ?
+| A Kyanite hull updated and overhauled to keep up with recent developments in material science and refueling technologies, the Kyanite M2 possesses the same modules that its former mark had.<BR>
+<BR>
+The M2, however, is plated with Aegisium and Kutonium plating, with a Bastium hull keeping everything in place; it features a new fuel-rod hatch, button-accessible from the cockpit, and a resource hose for refueling the craft. It additionally has slightly thicker plating on some vectors, and due to slight weight savings it is also negligibly faster than its predecessor.<BR>
+<BR>
+The M2, like any other Kyanite hull, may be fitted with either Autocannons or Plasma Throwers with no additional modifications.<BR>
+<BR>
+The Kyanite M2 will REPLACE the Kyanite Mk1 in the OKI shop.
+|-
+| 17
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| Quartzite <br><br>'' Strike Craft''
+| splet
+| ?
+| A complete retrofit of a Kyanite-based two-pronged hull, altered so intensely it counts as a completely separate class of craft. It possesses the same generator unit as a Kyanite M2, however, but boasts both more armaments and an additional battery.<BR>
+<BR>
+The Quartzite is plated with Aegisium and Kutonium plating with a Bastium-beam hull keeping everything in place. Some of its plates are made from bastium to improve integrity.<BR>
+<BR>
+It lacks a windshield due to issues regarding the profile; no windows would properly fit it, so instead it bears an open-air cockpit.<BR>
+<BR>
+It has additionally a large generator maintenance hatch, permitting access to its fuel rod and coolant cells. It is advised to check on the cells after running the generator at full capacity for a prolonged period of time.<BR>
+<BR>
+Due to enhanced thrusters — two Tris and two Boxes — it is markedly faster than a Kyanite M2 and is fitted with twin autocannons and twin plasma throwers, bound to fire in sync with one another and aligned to the crosshair.
+|-
+| 23
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| Tick<br><br>''Scout/fighter''
+| einar4050
+| ?
+| Tick is a fast, mobile and long range scout vessel with 2 front guns and a hardpoint under for a third gun or other equipment. It has isan mono, a radiator, a shutdown and eco-mode options for the generator and hatches to access the small fuel tank and the single unit generator fuel chamber. It's speed is over 100m/s and can fly for over 2 hours at top speed using eco mode.
+|-
+| 24
+|
+[[File:Oki_pending.jpg|300px|thumb]]
+| CMC F2-A2 Raptor<br><br>''Fighter/Interceptor''
+| Cain
+| ?
+| Top speed: 149 mps (straight line)<br>
+Flight time: 1 hour (approx)<br>
+Power plant: 2x 2gen+1rod (independent)<br>
+Armament: 2x Laser cannons (2x 200 rnds linked) 2x Plasma cannons (2x 100 rnds Linked)<br>
+Armor: Kutonium<br>
+Navigation: Isan mono<br>
+|-
+|}
+<hr>
